@@ -3,51 +3,34 @@ layout: default
 ---
 
 <div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="/" style="color: #2196F3;">Privacy Policy</a>
+  <a href="/" style="color: #2196F3;">Home</a>
+  <a href="/privacy.html" style="color: #2196F3;">Privacy Policy</a>
   <a href="/support.html" style="color: #2196F3;">Support</a>
 </div>
 
-# Privacy Policy for Word Stack
+# Welcome to Word Stack!
 
-Last updated: April 16, 2025
+Word Stack is a fun, challenging, and beautifully designed word game for all ages. Build words, solve puzzles, and climb the global leaderboard!
 
-## 1. Information We Collect
-We collect and process the following data:
-- Email address for authentication
-- Display name for game identity
-- Game progress and scores
-- Game preferences and settings
-- Purchase history and transaction data
-- Basic usage statistics
-- Device information (OS, app version)
+## Why You'll Love Word Stack
+- **Addictive Gameplay:** Solve word puzzles and stack your way to victory.
+- **Compete Globally:** Climb the leaderboard and challenge friends.
+- **Power-Ups:** Use unique power-ups to boost your score and strategy.
+- **Beautiful Design:** Enjoy a clean, modern interface with smooth animations.
+- **Play Anywhere:** Available on iOS, Android, and the web.
 
-## 2. How We Use Your Information
-Your data is used exclusively for:
-- Account authentication and management
-- Game progress and achievement tracking
-- Processing and fulfilling in-app purchases
-- Game performance optimization
-- Technical support
-- Communication about game updates
+## Get Started
+- [Play Now](https://web.word-stack.app/play) — Jump right into the action!
+- [Download on iOS](https://apps.apple.com/app/word-stack/idYOUR_APP_ID)
+- [Download on Android](https://play.google.com/store/apps/details?id=YOUR_APP_ID)
 
-## 3. Data Storage and Security
-- Data is stored securely using industry standards
-- We use encryption for sensitive information
-- Regular security audits are performed
-- Access to data is strictly controlled
+## Learn More
+- [Privacy Policy](/privacy.html)
+- [Support](/support.html)
 
-## 4. Third-Party Services
-- Firebase: Authentication and data storage
-- Analytics: Game usage and performance
-- Payment processors: For handling in-app purchases
-- App Store/Google Play: For processing payments
-- We do not sell your data to third parties
+---
 
-## 5. Your Rights
-- Access your personal data
-- Request data correction or deletion
-- Opt-out of non-essential data collection
-- Export your data
+*Word Stack is a project by Arecalde. For inquiries, contact [support@word-stack.app](mailto:support@word-stack.app).*
 
 ## 6. Data Retention
 - Account data: Retained while account is active

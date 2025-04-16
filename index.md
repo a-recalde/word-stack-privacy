@@ -1,8 +1,8 @@
-# Privacy Policy for Word Stack
+---
+layout: default
+---
 
-<p align="center">
-  <img src="assets/word-stack-icon.png" alt="Word Stack App Icon" width="150" />
-</p>
+# Privacy Policy for Word Stack
 
 Last updated: April 16, 2025
 

@@ -10,11 +10,17 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      <div class="header-logo">
-        <a href="{{ "/" | absolute_url }}">
-          <img src="{{ "/assets/word-stack-icon.png" | relative_url }}" alt="Word Stack Logo" width="50" height="50" style="vertical-align: middle; margin-right: 10px;">
-          <span style="vertical-align: middle; font-size: 1.5em; font-weight: bold;">Word Stack</span>
-        </a>
+      <div class="header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+        <div class="header-logo">
+          <a href="{{ "/" | absolute_url }}">
+            <img src="{{ "/assets/word-stack-icon.png" | relative_url }}" alt="Word Stack Logo" width="50" height="50" style="vertical-align: middle; margin-right: 10px;">
+            <span style="vertical-align: middle; font-size: 1.5em; font-weight: bold;">Word Stack</span>
+          </a>
+        </div>
+        <div class="header-nav" style="display: flex; gap: 20px;">
+          <a href="{{ "/" | absolute_url }}" style="text-decoration: none; color: #0366d6;">Privacy Policy</a>
+          <a href="{{ "/support.html" | absolute_url }}" style="text-decoration: none; color: #0366d6;">Support</a>
+        </div>
       </div>
       
       {{ content }}

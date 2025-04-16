@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <a href="/" style="color: #2196F3;">Privacy Policy</a>
+  <a href="/support.html" style="color: #2196F3;">Support</a>
+</div>
+
 # Word Stack Support
 
 Welcome to the Word Stack support page. We're here to help you with any questions or issues you might have with the game.
@@ -51,7 +56,7 @@ A: Please try these steps:
 **Q: I found a bug, how do I report it?**  
 A: Please contact us with details about the bug, including what happened, what you were doing when it occurred, and what device you're using.
 
-## Contact Us
+## Contact Us {#contact-us}
 
 If you have any questions, suggestions, or need assistance, please reach out to us:
 

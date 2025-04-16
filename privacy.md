@@ -44,5 +44,19 @@ Your data is used exclusively for:
 - Opt-out of non-essential data collection
 - Export your data
 
-## 6. Contact Us
+## 6. Data Retention
+- Account data: Retained while account is active
+- Game data: Stored until account deletion
+- Usage data: Anonymized after 12 months
+
+## 7. Children's Privacy
+- We do not knowingly collect data from children under 13
+- Parents can request data deletion
+
+## 8. Updates to Policy
+- Policy changes will be notified in-app
+- Continued use implies acceptance of changes
+- Previous versions available upon request
+
+## Contact Us
 For privacy-related questions or requests, please contact [support@word-stack.app](mailto:support@word-stack.app).

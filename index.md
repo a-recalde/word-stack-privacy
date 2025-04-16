@@ -2,11 +2,7 @@
 layout: default
 ---
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="/" style="color: #2196F3;">Home</a>
-  <a href="/privacy.html" style="color: #2196F3;">Privacy Policy</a>
-  <a href="/support.html" style="color: #2196F3;">Support</a>
-</div>
+
 
 # Welcome to Word Stack!
 

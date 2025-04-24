@@ -49,11 +49,17 @@ Your data is used exclusively for:
 - Game data: Stored until account deletion
 - Usage data: Anonymized after 12 months
 
-## 7. Children's Privacy
+## 7. Social Features and Friend Data
+- When you accept a friend request, you consent to sharing your game statistics with that friend
+- Game statistics shared include: scores, completed levels, word counts, and other gameplay metrics
+- You can revoke access to your game statistics by removing the friend connection
+- We do not share your personal information with other players
+
+## 8. Children's Privacy
 - We do not knowingly collect data from children under 13
 - Parents can request data deletion
 
-## 8. Updates to Policy
+## 9. Updates to Policy
 - Policy changes will be notified in-app
 - Continued use implies acceptance of changes
 - Previous versions available upon request

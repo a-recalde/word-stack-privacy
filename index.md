@@ -16,7 +16,7 @@ Word Stack is a fun, challenging, and beautifully designed word game for all age
 - **Play Anywhere:** Available on iOS, Android, and the web.
 
 ## Get Started
-- [Download on iOS](https://apps.apple.com/app/word-stack/idYOUR_APP_ID)
+- [Download on iOS](https://apps.apple.com/app/word-stack/id6744039217)
 
 ## Learn More
 - [Privacy Policy](/privacy.html)
